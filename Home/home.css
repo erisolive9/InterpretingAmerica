@@ -37,6 +37,10 @@ h1 {
     padding: 40px;
 }
 
+#meetTheTeam {
+    display: flex;
+}
+
 .pageLink {
     text-decoration: none;
     color: black;
