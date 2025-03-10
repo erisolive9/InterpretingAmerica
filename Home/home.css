@@ -7,6 +7,10 @@ h1 {
     color: black;
 }
 
+p {
+    margin: 20px;
+}
+
 #pageHead {
     background-color: rgb(240, 226, 81) ;
     width: 100%;
@@ -35,6 +39,15 @@ h1 {
     font-size: 40px;
     text-align: center;
     padding: 40px;
+}
+
+#pageContent {
+    margin: 20px;
+    padding: 20px;
+}
+
+#meetTheTeam {
+    display: flex;
 }
 
 .pageLink {
