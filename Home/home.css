@@ -12,7 +12,7 @@ p {
 }
 
 #pageHead {
-    background-color: rgb(240, 226, 81) ;
+    background-color: rgb(12, 71, 16);
     width: 100%;
     text-align: center;
     padding: 20px 0px;
@@ -48,11 +48,14 @@ p {
 
 #meetTheTeam {
     display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    background-color: rgb(138, 214, 143)
 }
 
 .pageLink {
     text-decoration: none;
-    color: black;
+    color: white;
     transition: transform 2s ease-in;
 }
 
